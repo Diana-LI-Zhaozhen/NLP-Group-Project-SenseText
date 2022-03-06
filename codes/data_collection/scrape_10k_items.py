@@ -43,7 +43,7 @@ error_ls = []
 for ticker, f10k_path in dict10k.items():
     try:
         # Get 10-K in HTML format
-        headers = {'User-Agent':'iris17m@connect.hku.hk'}  # Set header
+        headers = {'User-Agent':'<Your email>'}  # Set header
         r = requests.get(f10k_path, headers = headers)
         raw_10k = r.text
         

@@ -60,7 +60,7 @@ error = []  # For checking errors
 #
 # -----------------------------------------------------------------------------
 # Set headers (Required by SEC)
-headers = {'User-Agent':'iris17m@connect.hku.hk'}
+headers = {'User-Agent':'<Your email>'}
 
 for i in range(0, len(cik_ls)):
     try:
