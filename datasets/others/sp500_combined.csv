@@ -1,0 +1,499 @@
+cik,cik_full,name,ticker,GICS Sector,GICS Sub-Industry,Headquarters Location,Date first added,Founded
+320193,0000320193,Apple Inc.,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,1977
+789019,0000789019,MICROSOFT CORP,MSFT,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,1975
+1652044,0001652044,Alphabet Inc.,GOOGL,Communication Services,Interactive Media & Services,"Mountain View, California",2014-04-03,1998
+1018724,0001018724,AMAZON COM INC,AMZN,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2005-11-18,1994
+1318605,0001318605,"Tesla, Inc.",TSLA,Consumer Discretionary,Automobile Manufacturers,"Palo Alto, California",2020-12-21,2003
+1067983,0001067983,BERKSHIRE HATHAWAY INC,BRK-B,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1839
+1326801,0001326801,"Meta Platforms, Inc.",FB,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-23,2004
+1045810,0001045810,NVIDIA CORP,NVDA,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1993
+19617,0000019617,JPMORGAN CHASE & CO,JPM,Financials,Diversified Banks,"New York City, New York",1975-06-30,2000 (1799 / 1871)
+731766,0000731766,UNITEDHEALTH GROUP INC,UNH,Health Care,Managed Health Care,"Minnetonka, Minnesota",1994-07-01,1977
+200406,0000200406,JOHNSON & JOHNSON,JNJ,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,1886
+70858,0000070858,BANK OF AMERICA CORP /DE/,BAC,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,1998 (1923 / 1874)
+80424,0000080424,PROCTER & GAMBLE Co,PG,Consumer Staples,Personal Products,"Cincinnati, Ohio",1957-03-04,1837
+104169,0000104169,Walmart Inc.,WMT,Consumer Staples,Hypermarkets & Super Centers,"Bentonville, Arkansas",1982-08-31,1962
+1141391,0001141391,Mastercard Inc,MA,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",2008-07-18,1966
+354950,0000354950,"HOME DEPOT, INC.",HD,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,1978
+34088,0000034088,EXXON MOBIL CORP,XOM,Energy,Integrated Oil & Gas,"Irving, Texas",1957-03-04,1999
+78003,0000078003,PFIZER INC,PFE,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,1849
+1744489,0001744489,Walt Disney Co,DIS,Communication Services,Movies & Entertainment,"Burbank, California",1976-06-30,1923
+93410,0000093410,CHEVRON CORP,CVX,Energy,Integrated Oil & Gas,"San Ramon, California",1957-03-04,1879
+21344,0000021344,COCA COLA CO,KO,Consumer Staples,Soft Drinks,"Atlanta, Georgia",1957-03-04,1886
+1551152,0001551152,AbbVie Inc.,ABBV,Health Care,Pharmaceuticals,"North Chicago, Illinois",2012-12-31,2013 (1888)
+1730168,0001730168,Broadcom Inc.,AVGO,Information Technology,Semiconductors,"San Jose, California",2014-05-08,1961
+72971,0000072971,WELLS FARGO & COMPANY/MN,WFC,Financials,Diversified Banks,"San Francisco, California",1976-06-30,1852
+77476,0000077476,PEPSICO INC,PEP,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,1898
+796343,0000796343,ADOBE INC.,ADBE,Information Technology,Application Software,"San Jose, California",1997-05-05,1982
+909832,0000909832,COSTCO WHOLESALE CORP /NEW,COST,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",1993-10-01,1976
+59478,0000059478,ELI LILLY & Co,LLY,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,1876
+858877,0000858877,"CISCO SYSTEMS, INC.",CSCO,Information Technology,Communications Equipment,"San Jose, California",1993-12-01,1984
+320187,0000320187,"NIKE, Inc.",NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1988-11-30,1964
+732712,0000732712,VERIZON COMMUNICATIONS INC,VZ,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983-11-30,1983 (1877)
+97745,0000097745,THERMO FISHER SCIENTIFIC INC.,TMO,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2004-08-03,2006 (1902)
+1800,0000001800,ABBOTT LABORATORIES,ABT,Health Care,Health Care Equipment,"North Chicago, Illinois",1964-03-31,1888
+1166691,0001166691,COMCAST CORP,CMCSA,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,1963
+1341439,0001341439,ORACLE CORP,ORCL,Information Technology,Application Software,"Austin, Texas",1989-08-31,1977
+1467373,0001467373,Accenture plc,ACN,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",2011-07-06,1989
+1108524,0001108524,"SALESFORCE.COM, INC.",CRM,Information Technology,Application Software,"San Francisco, California",2008-09-15,1999
+313616,0000313616,DANAHER CORP /DE/,DHR,Health Care,Health Care Equipment,"Washington, D.C.",,1969
+50863,0000050863,INTEL CORP,INTC,Information Technology,Semiconductors,"Santa Clara, California",1976-12-31,1968
+310158,0000310158,"Merck & Co., Inc.",MRK,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1957-03-04,1891
+63908,0000063908,MCDONALDS CORP,MCD,Consumer Discretionary,Restaurants,"Chicago, Illinois",1970-06-30,1940
+1090727,0001090727,UNITED PARCEL SERVICE INC,UPS,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,1907
+804328,0000804328,QUALCOMM INC/DE,QCOM,Information Technology,Semiconductors,"San Diego, California",,1985
+895421,0000895421,MORGAN STANLEY,MS,Financials,Investment Banking & Brokerage,"New York City, New York",,1935
+1065280,0001065280,NETFLIX INC,NFLX,Communication Services,Movies & Entertainment,"Los Gatos, California",2010-12-20,1997
+732717,0000732717,AT&T INC.,T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30 (1957-03-04),1983 (1885)
+1413329,0001413329,Philip Morris International Inc.,PM,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,2008 (1847)
+316709,0000316709,SCHWAB CHARLES CORP,SCHW,Financials,Investment Banking & Brokerage,"Westlake, Texas",1997-06-02,1971
+1283699,0001283699,"T-Mobile US, Inc.",TMUS,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",2019-07-15,1994
+100885,0000100885,UNION PACIFIC CORP,UNP,Industrials,Railroads,"Omaha, Nebraska",1957-03-04,1862
+60667,0000060667,LOWES COMPANIES INC,LOW,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",1984-02-29,1904/1946/1959
+1707925,0001707925,LINDE PLC,LIN,Materials,Industrial Gases,"Guildford, England",1992-07-01,1879
+97476,0000097476,TEXAS INSTRUMENTS INC,TXN,Information Technology,Semiconductors,"Dallas, Texas",,1930
+896878,0000896878,INTUIT INC,INTU,Information Technology,Application Software,"Mountain View, California",2000-12-05,1983
+4962,0000004962,AMERICAN EXPRESS CO,AXP,Financials,Consumer Finance,"New York City, New York",1976-06-30,1850
+14272,0000014272,BRISTOL MYERS SQUIBB CO,BMY,Health Care,Health Care Distributors,"New York City, New York",1957-03-04,1989
+753308,0000753308,NEXTERA ENERGY INC,NEE,Utilities,Multi-Utilities,"Juno Beach, Florida",1976-06-30,1984 (1925)
+101829,0000101829,RAYTHEON TECHNOLOGIES CORP,RTX,Industrials,Aerospace & Defense,"Waltham, Massachusetts",,1922
+2488,0000002488,ADVANCED MICRO DEVICES INC,AMD,Information Technology,Semiconductors,"Santa Clara, California",,1969
+1613103,0001613103,Medtronic plc,MDT,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,1949
+64803,0000064803,CVS HEALTH Corp,CVS,Health Care,Health Care Services,"Woonsocket, Rhode Island",1957-03-04,1996
+1633917,0001633917,"PayPal Holdings, Inc.",PYPL,Information Technology,Data Processing & Outsourced Services,"San Jose, California",2015-07-20,1998
+831001,0000831001,CITIGROUP INC,C,Financials,Diversified Banks,"New York City, New York",1988-05-31,1998
+773840,0000773840,HONEYWELL INTERNATIONAL INC,HON,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1964-03-31,1906
+318154,0000318154,AMGEN INC,AMGN,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,1980
+12927,0000012927,BOEING CO,BA,Industrials,Aerospace & Defense,"Chicago, Illinois",1957-03-04,1916
+1163165,0001163165,CONOCOPHILLIPS,COP,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,2002
+886982,0000886982,GOLDMAN SACHS GROUP INC,GS,Financials,Investment Banking & Brokerage,"New York City, New York",2002-07-22,1869
+315189,0000315189,DEERE & CO,DE,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1957-03-04,1837
+6951,0000006951,APPLIED MATERIALS INC /DE,AMAT,Information Technology,Semiconductor Equipment,"Santa Clara, California",1995-03-16,1967
+51143,0000051143,INTERNATIONAL BUSINESS MACHINES CORP,IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1957-03-04,1911
+1364742,0001364742,BlackRock Inc.,BLK,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,1988
+1373715,0001373715,"ServiceNow, Inc.",NOW,Information Technology,Systems Software,"Santa Clara, California",2019-11-21,2003
+1001250,0001001250,ESTEE LAUDER COMPANIES INC,EL,Consumer Staples,Personal Products,"New York City, New York",2006-01-05,1946
+1091667,0001091667,"CHARTER COMMUNICATIONS, INC. /MO/",CHTR,Communication Services,Cable & Satellite,"Stamford, Connecticut",2016-09-08,1993
+18230,0000018230,CATERPILLAR INC,CAT,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",1957-03-04,1925
+1156039,0001156039,"Anthem, Inc.",ANTM,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,2014 (1946)
+1045609,0001045609,"Prologis, Inc.",PLD,Real Estate,Industrial REITs,"San Francisco, California",2003-07-17,1983
+1053507,0001053507,AMERICAN TOWER CORP /MA/,AMT,Real Estate,Specialized REITs,"Boston, Massachusetts",2007-11-19,1995
+936468,0000936468,LOCKHEED MARTIN CORP,LMT,Industrials,Aerospace & Defense,"Bethesda, Maryland",1984-07-31,1995
+40545,0000040545,GENERAL ELECTRIC CO,GE,Industrials,Industrial Conglomerates,"Boston, Massachusetts",,1892
+1075531,0001075531,Booking Holdings Inc.,BKNG,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",2009-11-06,1996
+723125,0000723125,MICRON TECHNOLOGY INC,MU,Information Technology,Semiconductors,"Boise, Idaho",1994-09-27,1978
+1035267,0001035267,INTUITIVE SURGICAL INC,ISRG,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,1995
+27419,0000027419,TARGET CORP,TGT,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",1976-12-31,1902
+310764,0000310764,STRYKER CORP,SYK,Health Care,Health Care Equipment,"Kalamazoo, Michigan",2000-12-12,1941
+1555280,0001555280,Zoetis Inc.,ZTS,Health Care,Pharmaceuticals,"Parsippany, New Jersey",2013-06-21,1952
+1103982,0001103982,"Mondelez International, Inc.",MDLZ,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012-10-02,2012
+764180,0000764180,"ALTRIA GROUP, INC.",MO,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,1985
+64040,0000064040,S&P Global Inc.,SPGI,Financials,Financial Exchanges & Data,"New York City, New York",,1917
+66740,0000066740,3M CO,MMM,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1976-08-09,1902
+896159,0000896159,Chubb Ltd,CB,Financials,Property & Casualty Insurance,"Zurich, Switzerland",2010-07-15,1985
+713676,0000713676,"PNC FINANCIAL SERVICES GROUP, INC.",PNC,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1988-04-30,1845
+1156375,0001156375,CME GROUP INC.,CME,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,1848
+36104,0000036104,US BANCORP \DE\,USB,Financials,Diversified Banks,"Minneapolis, Minnesota",,1968
+8670,0000008670,AUTOMATIC DATA PROCESSING INC,ADP,Information Technology,Data Processing & Outsourced Services,"Roseland, New Jersey",1981-03-31,1949
+92230,0000092230,TRUIST FINANCIAL CORP,TFC,Financials,Regional Banks,"Charlotte, North Carolina",1997-12-04,1872
+109198,0000109198,TJX COMPANIES INC /DE/,TJX,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1985-09-30,1987
+6281,0000006281,ANALOG DEVICES INC,ADI,Information Technology,Semiconductors,"Wilmington, Massachusetts",1999-10-12,1965
+707549,0000707549,LAM RESEARCH CORP,LRCX,Information Technology,Semiconductor Equipment,"Fremont, California",2012-06-29,1980
+1326160,0001326160,Duke Energy CORP,DUK,Utilities,Electric Utilities,"Charlotte, North Carolina",1976-06-30,1904
+882095,0000882095,GILEAD SCIENCES INC,GILD,Health Care,Biotechnology,"Foster City, California",2004-07-01,1987
+10795,0000010795,BECTON DICKINSON & CO,BDX,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,1897
+62709,0000062709,"MARSH & MCLENNAN COMPANIES, INC.",MMC,Financials,Insurance Brokers,"New York City, New York",1987-08-31,1905
+277948,0000277948,CSX CORP,CSX,Industrials,Railroads,"Jacksonville, Florida",1967-09-30,1980
+1739940,0001739940,Cigna Corp,CI,Health Care,Managed Health Care,"Bloomfield, Connecticut",1976-06-30,1982
+860730,0000860730,"HCA Healthcare, Inc.",HCA,Health Care,Health Care Facilities,"Nashville, Tennessee",2015-01-27,1968
+1051470,0001051470,CROWN CASTLE INTERNATIONAL CORP,CCI,Real Estate,Specialized REITs,"Houston, Texas",2012-03-14,1994
+89800,0000089800,SHERWIN WILLIAMS CO,SHW,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,1866
+1571949,0001571949,"Intercontinental Exchange, Inc.",ICE,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2007-09-26,2000
+1467858,0001467858,General Motors Co,GM,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1908
+92122,0000092122,SOUTHERN CO,SO,Utilities,Electric Utilities,"Atlanta, Georgia",1957-03-04,1945
+37996,0000037996,FORD MOTOR CO,F,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,1903
+49826,0000049826,ILLINOIS TOOL WORKS INC,ITW,Industrials,Industrial Machinery,"Glenview, Illinois",1986-02-28,1912
+1136893,0001136893,"Fidelity National Information Services, Inc.",FIS,Information Technology,Data Processing & Outsourced Services,"Jacksonville, Florida",2006-11-10,1968
+1099800,0001099800,Edwards Lifesciences Corp,EW,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,1958
+872589,0000872589,"REGENERON PHARMACEUTICALS, INC.",REGN,Health Care,Biotechnology,"Tarrytown, New York",2013-05-01,1988
+21665,0000021665,COLGATE PALMOLIVE CO,CL,Consumer Staples,Household Products,"New York City, New York",1957-03-04,1806
+821189,0000821189,EOG RESOURCES INC,EOG,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2000-11-02,1999
+702165,0000702165,NORFOLK SOUTHERN CORP,NSC,Industrials,Railroads,"Norfolk, Virginia",1957-03-04,1881/1894 (1980)
+927628,0000927628,CAPITAL ONE FINANCIAL CORP,COF,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,1994
+798354,0000798354,FISERV INC,FISV,Information Technology,Data Processing & Outsourced Services,"Brookfield, Wisconsin",2001-04-02,1984
+715957,0000715957,"DOMINION ENERGY, INC",D,Utilities,Electric Utilities,"Richmond, Virginia",,1983
+718877,0000718877,"Activision Blizzard, Inc.",ATVI,Communication Services,Interactive Home Entertainment,"Santa Monica, California",2015-08-31,2008
+1393311,0001393311,Public Storage,PSA,Real Estate,Specialized REITs,"Glendale, California",2005-08-19,1972
+831259,0000831259,FREEPORT-MCMORAN INC,FCX,Materials,Copper,"Phoenix, Arizona",,1912
+80661,0000080661,PROGRESSIVE CORP/OH/,PGR,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1997-08-04,1937
+315293,0000315293,Aon plc,AON,Financials,Insurance Brokers,"London, UK",1996-04-23,1982 (1919)
+1133421,0001133421,NORTHROP GRUMMAN CORP /DE/,NOC,Industrials,Aerospace & Defense,"West Falls Church, Virginia",1985-06-30,"1994 (Northrop 1939, Grumman 1930)"
+885725,0000885725,BOSTON SCIENTIFIC CORP,BSX,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",1995-02-24,1979
+1551182,0001551182,Eaton Corp plc,ETN,Industrials,Electrical Components & Equipment,"Dublin, Ireland",,1911
+1048911,0001048911,FEDEX CORP,FDX,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1980-12-31,1971
+1101239,0001101239,EQUINIX INC,EQIX,Real Estate,Specialized REITs,"Redwood City, California",2015-03-20,1998
+1059556,0001059556,MOODYS CORP /DE/,MCO,Financials,Financial Exchanges & Data,"New York City, New York",,1909
+823768,0000823768,WASTE MANAGEMENT INC,WM,Industrials,Environmental & Facilities Services,"Houston, Texas",,1968
+1099219,0001099219,METLIFE INC,MET,Financials,Life & Health Insurance,"New York City, New York",,1868
+40533,0000040533,GENERAL DYNAMICS CORP,GD,Industrials,Aerospace & Defense,"Falls Church, Virginia",1957-03-04,1899
+875320,0000875320,VERTEX PHARMACEUTICALS INC / MA,VRTX,Health Care,Biotechnology,"Cambridge, Massachusetts",2013-09-23,1989
+1682852,0001682852,"Moderna, Inc.",MRNA,Health Care,Biotechnology,"Cambridge, Massachusetts",2021-07-21,2010
+32604,0000032604,EMERSON ELECTRIC CO,EMR,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1965-03-31,1890
+1048286,0001048286,MARRIOTT INTERNATIONAL INC /MD/,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",,1927
+319201,0000319201,KLA CORP,KLAC,Information Technology,Semiconductor Equipment,"Milpitas, California",,1975/1977 (1997)
+87347,0000087347,SCHLUMBERGER LIMITED/NV,SLB,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",1965-03-31,1926
+1038357,0001038357,PIONEER NATURAL RESOURCES CO,PXD,Energy,Oil & Gas Exploration & Production,"Irving, Texas",2008-09-24,1997
+2969,0000002969,AIR PRODUCTS & CHEMICALS INC /DE/,APD,Materials,Industrial Gases,"Allentown, Pennsylvania",1985-04-30,1940
+49071,0000049071,HUMANA INC,HUM,Health Care,Managed Health Care,"Louisville, Kentucky",,1961
+31462,0000031462,ECOLAB INC.,ECL,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1989-01-31,1923
+1110803,0001110803,"ILLUMINA, INC.",ILMN,Health Care,Life Sciences Tools & Services,"San Diego, California",2015-11-19,1998
+1164727,0001164727,NEWMONT Corp /DE/,NEM,Materials,Gold,"Denver, Colorado",1969-06-30,1921
+1390777,0001390777,Bank of New York Mellon Corp,BK,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,1784
+1262039,0001262039,"Fortinet, Inc.",FTNT,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,2000
+769397,0000769397,"Autodesk, Inc.",ADSK,Information Technology,Application Software,"San Rafael, California",1989-12-01,1982
+1413447,0001413447,NXP Semiconductors N.V.,NXPI,Information Technology,Semiconductors,"Eindhoven, Netherlands",2021-03-22,1953
+5272,0000005272,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,Financials,Property & Casualty Insurance,"New York City, New York",1980-03-31,1919
+1510295,0001510295,Marathon Petroleum Corp,MPC,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",2011-07-01,2009 (1887)
+1071739,0001071739,CENTENE CORP,CNC,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,1984
+833444,0000833444,Johnson Controls International plc,JCI,Industrials,Building Products,"Cork, Ireland",2010-08-27,1885
+1385157,0001385157,TE Connectivity Ltd.,TEL,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2011-10-17,2007
+882835,0000882835,ROPER TECHNOLOGIES INC,ROP,Industrials,Industrial Conglomerates,"Sarasota, Florida",2009-12-23,1981
+29534,0000029534,DOLLAR GENERAL CORP,DG,Consumer Discretionary,General Merchandise Stores,"Goodlettsville, Tennessee",2012-12-03,1939
+1063761,0001063761,SIMON PROPERTY GROUP INC /DE/,SPG,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,2003
+1478242,0001478242,IQVIA HOLDINGS INC.,IQV,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1982
+1058290,0001058290,COGNIZANT TECHNOLOGY SOLUTIONS CORP,CTSH,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",2006-11-17,1994
+883241,0000883241,SYNOPSYS INC,SNPS,Information Technology,Application Software,"Mountain View, California",2017-03-16,1986
+820313,0000820313,AMPHENOL CORP /DE/,APH,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,1932
+1751788,0001751788,DOW INC.,DOW,Materials,Commodity Chemicals,"Midland, Michigan",2019-04-01,2019
+55785,0000055785,KIMBERLY CLARK CORP,KMB,Consumer Staples,Household Products,"Irving, Texas",1957-03-04,1872
+898173,0000898173,O REILLY AUTOMOTIVE INC,ORLY,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",2009-03-27,1957
+1058090,0001058090,CHIPOTLE MEXICAN GRILL INC,CMG,Consumer Discretionary,Restaurants,"Newport Beach, California",2011-04-28,1993
+1408198,0001408198,MSCI Inc.,MSCI,Financials,Financial Exchanges & Data,"New York City, New York",2018-04-04,1969
+16918,0000016918,"CONSTELLATION BRANDS, INC.",STZ,Consumer Staples,Distillers & Vintners,"Victor, New York",2005-07-01,1945
+1137774,0001137774,PRUDENTIAL FINANCIAL INC,PRU,Financials,Life & Health Insurance,"Newark, New Jersey",2002-07-22,1875
+865752,0000865752,Monster Beverage Corp,MNST,Consumer Staples,Soft Drinks,"Corona, California",2012-06-28,2012 (1935)
+1032208,0001032208,SEMPRA ENERGY,SRE,Utilities,Multi-Utilities,"San Diego, California",,1998
+202058,0000202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",LHX,Industrials,Aerospace & Defense,"Melbourne, Florida",2008-09-22,2019 (1895)
+1598014,0001598014,IHS Markit Ltd.,INFO,Industrials,Research & Consulting Services,"London, England",2017-06-02,1959
+874716,0000874716,IDEXX LABORATORIES INC /DE,IDXX,Health Care,Health Care Equipment,"Westbrook, Maine",2017-01-05,1983
+10456,0000010456,BAXTER INTERNATIONAL INC,BAX,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,1931
+4904,0000004904,AMERICAN ELECTRIC POWER CO INC,AEP,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,1906
+723531,0000723531,PAYCHEX INC,PAYX,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",,1971
+1123360,0001123360,GLOBAL PAYMENTS INC,GPN,Information Technology,Data Processing & Outsourced Services,"Atlanta, Georgia",2016-04-25,2000
+7084,0000007084,Archer-Daniels-Midland Co,ADM,Consumer Staples,Agricultural Products,"Chicago, Illinois",1981-07-29,1902
+4977,0000004977,AFLAC INC,AFL,Financials,Life & Health Insurance,"Columbus, Georgia",1999-05-28,1955
+1637459,0001637459,Kraft Heinz Co,KHC,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015-07-06,2015 (1869)
+1585689,0001585689,Hilton Worldwide Holdings Inc.,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1919
+96021,0000096021,SYSCO CORP,SYY,Consumer Staples,Food Distributors,"Houston, Texas",1986-12-31,1969
+86312,0000086312,"TRAVELERS COMPANIES, INC.",TRV,Financials,Property & Casualty Insurance,"New York City, New York",2002-08-21,1853
+47111,0000047111,HERSHEY CO,HSY,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1957-03-04,1894
+927653,0000927653,MCKESSON CORP,MCK,Health Care,Health Care Distributors,"Irving, Texas",,1833
+1109357,0001109357,EXELON CORP,EXC,Utilities,Multi-Utilities,"Chicago, Illinois",1957-03-04,2000
+1666700,0001666700,"DuPont de Nemours, Inc.",DD,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-04-02,2017
+1618921,0001618921,"Walgreens Boots Alliance, Inc.",WBA,Consumer Staples,Drug Retail,"Deerfield, Illinois",1979-12-31,2014
+1090872,0001090872,"AGILENT TECHNOLOGIES, INC.",A,Health Care,Health Care Equipment,"Santa Clara, California",2000-06-05,1999
+40704,0000040704,GENERAL MILLS INC,GIS,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1969-03-31,1856
+1097149,0001097149,ALIGN TECHNOLOGY INC,ALGN,Health Care,Health Care Supplies,"San Jose, California",2017-06-19,1997
+866787,0000866787,AUTOZONE INC,AZO,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1997-01-02,1979
+1534701,0001534701,Phillips 66,PSX,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,2012 (1917)
+47217,0000047217,HP INC,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1974-12-31,1939 (2015)
+827054,0000827054,MICROCHIP TECHNOLOGY INC,MCHP,Information Technology,Semiconductors,"Chandler, Arizona",2007-09-07,1989
+1093557,0001093557,DEXCOM INC,DXCM,Health Care,Health Care Equipment,"San Diego, California",2020-05-12,1999
+813672,0000813672,CADENCE DESIGN SYSTEMS INC,CDNS,Information Technology,Application Software,"San Jose, California",2017-09-18,1988
+1506307,0001506307,"KINDER MORGAN, INC.",KMI,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2012-05-25,1997
+1783180,0001783180,CARRIER GLOBAL Corp,CARR,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,2020 (1915)
+76334,0000076334,PARKER HANNIFIN CORP,PH,Industrials,Industrial Machinery,"Cleveland, Ohio",1985-11-30,1917
+1297996,0001297996,"DIGITAL REALTY TRUST, INC.",DLR,Real Estate,Specialized REITs,"Austin, Texas",2016-05-18,2004
+797468,0000797468,OCCIDENTAL PETROLEUM CORP /DE/,OXY,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1982-12-31,1920
+723254,0000723254,CINTAS CORP,CTAS,Industrials,Diversified Support Services,"Mason, Ohio",2001-03-01,1929
+726728,0000726728,REALTY INCOME CORP,O,Real Estate,Retail REITs,"San Diego, California",2015-04-07,1969
+1596532,0001596532,"Arista Networks, Inc.",ANET,Information Technology,Communications Equipment,"Santa Clara, California",2018-08-28,2004
+712515,0000712515,ELECTRONIC ARTS INC.,EA,Communication Services,Interactive Home Entertainment,"Redwood City, California",2002-07-22,1982
+1060391,0001060391,"REPUBLIC SERVICES, INC.",RSG,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",2008-12-05,1998 (1981)
+1755672,0001755672,"Corteva, Inc.",CTVA,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",2019-06-03,2019
+1521332,0001521332,Aptiv PLC,APTV,Consumer Discretionary,Auto Parts & Equipment,"Dublin, Ireland",2012-12-24,1994
+1035002,0001035002,VALERO ENERGY CORP/TX,VLO,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",,1980
+107263,0000107263,"WILLIAMS COMPANIES, INC.",WMB,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,1908
+719739,0000719739,SVB FINANCIAL GROUP,SIVB,Financials,Regional Banks,"Santa Clara, California",2018-03-19,1983
+1065088,0001065088,EBAY INC,EBAY,Consumer Discretionary,Internet & Direct Marketing Retail,"San Jose, California",2002-07-22,1995
+1393612,0001393612,Discover Financial Services,DFS,Financials,Consumer Finance,"Riverwoods, Illinois",2007-07-02,1985
+68505,0000068505,"Motorola Solutions, Inc.",MSI,Information Technology,Communications Equipment,"Chicago, Illinois",,1928 (2011)
+93751,0000093751,STATE STREET CORP,STT,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",,1792
+1466258,0001466258,Trane Technologies plc,TT,Industrials,Building Products,"Dublin, Ireland",2010-11-17,1871
+899051,0000899051,ALLSTATE CORP,ALL,Financials,Property & Casualty Insurance,"Northfield Township, Illinois",1995-07-13,1931
+72903,0000072903,XCEL ENERGY INC,XEL,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,1909
+1041061,0001041061,YUM BRANDS INC,YUM,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997-10-06,1997
+79879,0000079879,PPG INDUSTRIES INC,PPG,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1957-03-04,1883
+1090012,0001090012,DEVON ENERGY CORP/DE,DVN,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",2000-08-30,1971
+1300514,0001300514,LAS VEGAS SANDS CORP,LVS,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",2019-10-03,1988
+24741,0000024741,CORNING INC /NY,GLW,Information Technology,Electronic Components,"Corning, New York",,1851
+1260221,0001260221,TransDigm Group INC,TDG,Industrials,Aerospace & Defense,"Cleveland, Ohio",2016-06-03,1993
+766704,0000766704,WELLTOWER INC.,WELL,Real Estate,Health Care REITs,"Toledo, Ohio",2009-01-30,1970
+100493,0000100493,"TYSON FOODS, INC.",TSN,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",2005-08-10,1935
+943819,0000943819,RESMED INC,RMD,Health Care,Health Care Equipment,"San Diego, California",2017-07-26,1989
+1781335,0001781335,Otis Worldwide Corp,OTIS,Industrials,Industrial Machinery,"Farmington, Connecticut",2020-04-03,2020 (1853)
+878927,0000878927,"OLD DOMINION FREIGHT LINE, INC.",ODFL,Industrials,Trucking,"Thomasville, North Carolina",2019-12-09,1934
+1034054,0001034054,SBA COMMUNICATIONS CORP,SBAC,Real Estate,Specialized REITs,"Boca Raton, Florida",2017-09-01,1989
+820027,0000820027,AMERIPRISE FINANCIAL INC,AMP,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",2005-10-03,1894
+56873,0000056873,KROGER CO,KR,Consumer Staples,Food Retail,"Cincinnati, Ohio",1957-03-04,1883
+73309,0000073309,NUCOR CORP,NUE,Materials,Steel,"Charlotte, North Carolina",1985-04-30,1940
+51253,0000051253,INTERNATIONAL FLAVORS & FRAGRANCES INC,IFF,Materials,Specialty Chemicals,"New York City, New York",1976-03-31,1958 (1889)
+1489393,0001489393,LyondellBasell Industries N.V.,LYB,Materials,Specialty Chemicals,"Rotterdam, Netherlands",2012-09-05,2007
+745732,0000745732,"ROSS STORES, INC.",ROST,Consumer Discretionary,Apparel Retail,"Dublin, California",2009-12-21,1982
+915912,0000915912,AVALONBAY COMMUNITIES INC,AVB,Real Estate,Residential REITs,"Arlington, Virginia[3]",2007-01-10,1978
+1113169,0001113169,PRICE T ROWE GROUP INC,TROW,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1937
+35527,0000035527,FIFTH THIRD BANCORP,FITB,Financials,Regional Banks,"Cincinnati, Ohio",,1858
+1138118,0001138118,"CBRE GROUP, INC.",CBRE,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,1906
+788784,0000788784,PUBLIC SERVICE ENTERPRISE GROUP INC,PEG,Utilities,Electric Utilities,"Newark, New Jersey",1957-03-04,1903
+1037646,0001037646,METTLER TOLEDO INTERNATIONAL INC/,MTD,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",2016-09-06,1945
+75362,0000075362,PACCAR INC,PCAR,Industrials,Construction Machinery & Heavy Trucks,"Bellevue, Washington",1980-12-31,1905
+906107,0000906107,EQUITY RESIDENTIAL,EQR,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,1969
+891103,0000891103,"Match Group, Inc.",MTCH,Communication Services,Interactive Media & Services,"Dallas, Texas",2021-09-20,1986
+354190,0000354190,Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers,"Rolling Meadows, Illinois",2016-05-31,1927
+875045,0000875045,BIOGEN INC.,BIIB,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,1978
+26172,0000026172,CUMMINS INC,CMI,Industrials,Industrial Machinery,"Columbus, Indiana",1965-03-31,1919
+1024478,0001024478,"ROCKWELL AUTOMATION, INC",ROK,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,1903
+14693,0000014693,BROWN FORMAN CORP,BF-A,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,1870
+1442145,0001442145,"Verisk Analytics, Inc.",VRSK,Industrials,Research & Consulting Services,"Jersey City, New Jersey",2015-10-08,1971
+935703,0000935703,"DOLLAR TREE, INC.",DLTR,Consumer Discretionary,General Merchandise Stores,"Chesapeake, Virginia",2011-12-19,1986
+1132979,0001132979,FIRST REPUBLIC BANK,FRC,Financials,Regional Banks,"San Francisco, California",2019-01-02,1985
+106535,0000106535,WEYERHAEUSER CO,WY,Real Estate,Specialized REITs,"Seattle, Washington",,1900
+1601046,0001601046,"Keysight Technologies, Inc.",KEYS,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2018-11-06,2014
+1037868,0001037868,AMETEK INC/,AME,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",2013-09-23,1930
+9389,0000009389,BALL Corp,BLL,Materials,Metal & Glass Containers,"Broomfield, Colorado",1984-10-31,1880
+1324424,0001324424,"Expedia Group, Inc.",EXPE,Consumer Discretionary,Internet & Direct Marketing Retail,"Seattle, Washington",2007-10-02,1996
+815556,0000815556,FASTENAL CO,FAST,Industrials,Building Products,"Winona, Minnesota",2008-09-15,1967
+882184,0000882184,HORTON D R INC /DE/,DHI,Consumer Discretionary,Homebuilding,"Arlington, Texas",2005-06-22,1978
+1047862,0001047862,CONSOLIDATED EDISON INC,ED,Utilities,Electric Utilities,"New York City, New York",,1823
+4447,0000004447,HESS CORP,HES,Energy,Integrated Oil & Gas,"New York City, New York",1984-05-31,1919
+1140859,0001140859,AMERISOURCEBERGEN CORP,ABC,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",2001-08-30,1985
+900075,0000900075,COPART INC,CPRT,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,1982
+45012,0000045012,HALLIBURTON CO,HAL,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1957-03-04,1919
+1120193,0001120193,"NASDAQ, INC.",NDAQ,Financials,Financial Exchanges & Data,"New York City, New York",2008-10-22,1971
+1418091,0001418091,"TWITTER, INC.",TWTR,Communication Services,Interactive Media & Services,"San Francisco, California",2018-06-07,2006
+1035443,0001035443,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",ARE,Real Estate,Office REITs,"Pasadena, California",2017-03-20,1994
+105770,0000105770,WEST PHARMACEUTICAL SERVICES INC,WST,Health Care,Health Care Supplies,"Exton, Pennsylvania",2020-05-22,1923
+783325,0000783325,"WEC ENERGY GROUP, INC.",WEC,Utilities,Electric Utilities,"Milwaukee, Wisconsin",2008-10-31,1896
+72741,0000072741,EVERSOURCE ENERGY,ES,Utilities,Multi-Utilities,"Hartford, Connecticut",,1966
+1039684,0001039684,ONEOK INC /NEW/,OKE,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",2010-03-15,1906
+1013462,0001013462,ANSYS INC,ANSS,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,1969
+920760,0000920760,LENNAR CORP /NEW/,LEN,Consumer Discretionary,Homebuilding,"Miami, Florida",2005-10-04,1954
+33185,0000033185,EQUIFAX INC,EFX,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,1899
+1410636,0001410636,"American Water Works Company, Inc.",AWK,Utilities,Water Utilities,"Camden, New Jersey",2016-03-04,1886
+27904,0000027904,"DELTA AIR LINES, INC.",DAL,Industrials,Airlines,"Atlanta, Georgia",2013-09-11,1929
+92380,0000092380,SOUTHWEST AIRLINES CO,LUV,Industrials,Airlines,"Dallas, Texas",1994-07-01,1967
+63754,0000063754,MCCORMICK & CO INC,MKC,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",2003-03-20,1889
+93556,0000093556,"STANLEY BLACK & DECKER, INC.",SWK,Industrials,Industrial Machinery,"New Britain, Connecticut",1982-09-30,1843
+804753,0000804753,CERNER Corp,CERN,Health Care,Health Care Technology,"North Kansas City, Missouri",2010-04-30,1979
+915913,0000915913,ALBEMARLE CORP,ALB,Materials,Specialty Chemicals,"Charlotte, North Carolina",2016-07-01,1994
+920148,0000920148,LABORATORY CORP OF AMERICA HOLDINGS,LH,Health Care,Health Care Services,"Burlington, North Carolina",2004-11-01,1978
+1289490,0001289490,Extra Space Storage Inc.,EXR,Real Estate,Specialized REITs,"Salt Lake City, Utah",2016-01-19,1977
+1335258,0001335258,"Live Nation Entertainment, Inc.",LYV,Communication Services,Movies & Entertainment,"Beverly Hills, California",2019-12-23,2010
+48465,0000048465,HORMEL FOODS CORP /DE/,HRL,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,1891
+73124,0000073124,NORTHERN TRUST CORP,NTRS,Financials,Asset Management & Custody Banks,"Chicago, Illinois",,1889
+815097,0000815097,CARNIVAL CORP,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,1972
+1701605,0001701605,Baker Hughes Co,BKR,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,2017
+916365,0000916365,TRACTOR SUPPLY CO /DE/,TSCO,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",2014-01-24,1938
+1136869,0001136869,"ZIMMER BIOMET HOLDINGS, INC.",ZBH,Health Care,Health Care Equipment,"Warsaw, Indiana",2001-08-07,1927
+1396009,0001396009,Vulcan Materials CO,VMC,Materials,Construction Materials,"Birmingham, Alabama",1999-06-30,1909
+313927,0000313927,CHURCH & DWIGHT CO INC /DE/,CHD,Consumer Staples,Household Products,"Ewing, New Jersey",2015-12-29,1847
+1352010,0001352010,"EPAM Systems, Inc.",EPAM,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",2021-12-14,1993
+764478,0000764478,BEST BUY CO INC,BBY,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,1966
+91576,0000091576,KEYCORP /NEW/,KEY,Financials,Regional Banks,"Cleveland, Ohio",1994-03-01,1825
+1601712,0001601712,Synchrony Financial,SYF,Financials,Consumer Finance,"Stamford, Connecticut",2015-11-18,2003
+277135,0000277135,"W.W. GRAINGER, INC.",GWW,Industrials,Industrial Machinery,"Lake Forest, Illinois",1981-06-30,1927
+912595,0000912595,MID AMERICA APARTMENT COMMUNITIES INC.,MAA,Real Estate,Residential REITs,"Memphis, Tennessee",2016-12-02,1977
+1402057,0001402057,CDW Corp,CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",2019-09-23,1984
+749251,0000749251,GARTNER INC,IT,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",2017-04-05,1979
+1014473,0001014473,VERISIGN INC/CA,VRSN,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2006-02-01,1995
+874766,0000874766,"HARTFORD FINANCIAL SERVICES GROUP, INC.",HIG,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1957-03-04,1810
+1539838,0001539838,"Diamondback Energy, Inc.",FANG,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2018-12-03,2007
+1137789,0001137789,Seagate Technology Holdings plc,STX,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",2012-07-02,1979
+103379,0000103379,V F CORP,VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1979-06-30,1899
+1754301,0001754301,Fox Corp,FOXA,Communication Services,Movies & Entertainment,"New York City, New York",2013-07-01,2019
+1281761,0001281761,REGIONS FINANCIAL CORP,RF,Financials,Regional Banks,"Birmingham, Alabama",1998-08-28,1971
+1659166,0001659166,Fortive Corp,FTV,Industrials,Industrial Machinery,"Everett, Washington",2016-07-01,2016
+1121788,0001121788,GARMIN LTD,GRMN,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",2012-12-12,1989
+1031296,0001031296,FIRSTENERGY CORP,FE,Utilities,Electric Utilities,"Akron, Ohio",,1997
+36270,0000036270,M&T BANK CORP,MTB,Financials,Regional Banks,"Buffalo, New York",2004-02-23,1856
+29905,0000029905,DOVER Corp,DOV,Industrials,Industrial Machinery,"Downers Grove, Illinois",1985-10-31,1955
+49196,0000049196,HUNTINGTON BANCSHARES INC /MD/,HBAN,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",,1866
+916076,0000916076,MARTIN MARIETTA MATERIALS INC,MLM,Materials,Construction Materials,"Raleigh, North Carolina",2014-07-02,1993
+759944,0000759944,CITIZENS FINANCIAL GROUP INC/RI,CFG,Financials,Regional Banks,"Providence, Rhode Island",2016-01-29,1828
+31791,0000031791,PERKINELMER INC,PKI,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,1937
+813828,0000813828,ViacomCBS Inc.,VIAC,Communication Services,Movies & Entertainment,"New York City, New York",,2019 (1952)
+827052,0000827052,EDISON INTERNATIONAL,EIX,Utilities,Electric Utilities,"Rosemead, California",1957-03-04,1886
+877212,0000877212,ZEBRA TECHNOLOGIES CORP,ZBRA,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",2019-12-23,1969
+1067701,0001067701,"UNITED RENTALS, INC.",URI,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",2014-09-20,1997
+1757898,0001757898,STERIS plc,STE,Health Care,Health Care Equipment,"Dublin, Ireland",2019-12-23,1985
+720005,0000720005,RAYMOND JAMES FINANCIAL INC,RJF,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",2017-03-20,1962
+936340,0000936340,DTE ENERGY CO,DTE,Utilities,Multi-Utilities,"Detroit, Michigan",1957-03-04,1995
+4127,0000004127,"SKYWORKS SOLUTIONS, INC.",SWKS,Information Technology,Semiconductors,"Woburn, Massachusetts",2015-03-12,2002
+55067,0000055067,KELLOGG CO,K,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",1989-09-11,1906
+1002910,0001002910,AMEREN CORP,AEE,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,1902
+1699150,0001699150,Ingersoll Rand Inc.,IR,Industrials,Industrial Machinery,"Davidson, North Carolina",2020-03-03,1859
+1645590,0001645590,Hewlett Packard Enterprise Co,HPE,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,2015
+922224,0000922224,PPL Corp,PPL,Utilities,Electric Utilities,"Allentown, Pennsylvania",,1920
+884887,0000884887,ROYAL CARIBBEAN CRUISES LTD,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2014-12-05,1997
+65984,0000065984,ENTERGY CORP /DE/,ETR,Utilities,Electric Utilities,"New Orleans, Louisiana",1957-03-04,1913
+789570,0000789570,MGM Resorts International,MGM,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2017-07-26,1986
+783280,0000783280,DUKE REALTY CORP,DRE,Real Estate,Industrial REITs,"Indianapolis, Indiana",2017-07-26,1972
+1590955,0001590955,"Paycom Software, Inc.",PAYC,Information Technology,Application Software,"Oklahoma City, Oklahoma",2020-01-28,1998
+920522,0000920522,"ESSEX PROPERTY TRUST, INC.",ESS,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,1971
+728535,0000728535,HUNT J B TRANSPORT SERVICES INC,JBHT,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,1961
+1288784,0001288784,Signature Bank Corp,SBNY,Financials,Regional Banks,"New York City, New York",2021-12-20,2001
+740260,0000740260,"Ventas, Inc.",VTR,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,1998
+1280452,0001280452,MONOLITHIC POWER SYSTEMS INC,MPWR,Information Technology,Semiconductors,"Kirkland, Washington",2021-02-12,1997
+1175454,0001175454,FLEETCOR TECHNOLOGIES INC,FLT,Information Technology,Data Processing & Outsourced Services,"Norcross, Georgia",2018-06-20,2000
+1126328,0001126328,PRINCIPAL FINANCIAL GROUP INC,PFG,Financials,Life & Health Insurance,"Des Moines, Iowa",2002-07-22,1879
+1403568,0001403568,"Ulta Beauty, Inc.",ULTA,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",2016-04-18,1990
+1002047,0001002047,"NetApp, Inc.",NTAP,Information Technology,"Technology Hardware, Storage & Peripherals","Sunnyvale, California",1999-06-25,1992
+1094285,0001094285,TELEDYNE TECHNOLOGIES INC,TDY,Industrials,Aerospace & Defense,"Thousand Oaks, California",2020-06-22,1960
+1000697,0001000697,WATERS CORP /DE/,WAT,Health Care,Health Care Distributors,"Milford, Massachusetts",,1958
+1463101,0001463101,"Enphase Energy, Inc.",ENPH,Information Technology,Electronic Components,"Fremont, California",2021-01-07,2006
+711404,0000711404,"COOPER COMPANIES, INC.",COO,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,1958
+946581,0000946581,TAKE TWO INTERACTIVE SOFTWARE INC,TTWO,Communication Services,Interactive Home Entertainment,"New York City, New York",2018-03-19,1993
+20286,0000020286,CINCINNATI FINANCIAL CORP,CINF,Financials,Property & Casualty Insurance,"Fairfield, Ohio",1997-12-18,1950
+860731,0000860731,TYLER TECHNOLOGIES INC,TYL,Information Technology,Application Software,"Plano, Texas",2020-06-22,1966
+858470,0000858470,Coterra Energy Inc.,CTRA,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,2021 (1989)
+79282,0000079282,"BROWN & BROWN, INC.",BRO,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,1939
+940944,0000940944,DARDEN RESTAURANTS INC,DRI,Consumer Discretionary,Restaurants,"Orlando, Florida",,1938
+12208,0000012208,"BIO-RAD LABORATORIES, INC.",BIO,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,1952
+97210,0000097210,"TERADYNE, INC",TER,Information Technology,Semiconductor Equipment,"North Reading, Massachusetts",2020-09-21,1960
+1037540,0001037540,BOSTON PROPERTIES INC,BXP,Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,1970
+1792044,0001792044,Viatris Inc,VTRS,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",2004-04-23,1961
+746515,0000746515,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,EXPD,Industrials,Air Freight & Logistics,"Seattle, Washington",2007-10-10,1979
+40987,0000040987,GENUINE PARTS CO,GPC,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1973-12-31,1925
+1370637,0001370637,ETSY INC,ETSY,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,2005
+945841,0000945841,POOL CORP,POOL,Consumer Discretionary,Distributors,"Covington, Louisiana",2020-10-07,1993
+811156,0000811156,CMS ENERGY CORP,CMS,Utilities,Multi-Utilities,"Jackson, Michigan",1999-05-03,1886
+29989,0000029989,OMNICOM GROUP INC.,OMC,Communication Services,Advertising,"New York City, New York",,1986
+1086222,0001086222,AKAMAI TECHNOLOGIES INC,AKAM,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",2007-07-12,1998
+1170010,0001170010,CARMAX INC,KMX,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",2010-06-28,1993
+51434,0000051434,INTERNATIONAL PAPER CO /NEW/,IP,Materials,Paper Packaging,"Memphis, Tennessee",1957-03-04,1898
+1748790,0001748790,Amcor plc,AMCR,Materials,Paper Packaging,"Warmley, Bristol, United Kingdom",2019-06-07,2019 (1860)
+859737,0000859737,HOLOGIC INC,HOLX,Health Care,Health Care Equipment,"Marlborough, Massachusetts",2016-03-30,1985
+21076,0000021076,CLOROX CO /DE/,CLX,Consumer Staples,Household Products,"Oakland, California",1969-03-31,1913
+1590895,0001590895,"Caesars Entertainment, Inc.",CZR,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1973
+906163,0000906163,NVR INC,NVR,Consumer Discretionary,Homebuilding,"Reston, Virginia",2019-09-26,1980
+765880,0000765880,"HEALTHPEAK PROPERTIES, INC.",PEAK,Real Estate,Health Care REITs,"Long Beach, California",2008-03-31,1985
+849399,0000849399,NortonLifeLock Inc.,NLOK,Information Technology,Application Software,"Tempe, Arizona",2003-03-25,1982
+1474735,0001474735,GENERAC HOLDINGS INC.,GNRC,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,1959
+1596783,0001596783,"Catalent, Inc.",CTLT,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,2007
+23217,0000023217,CONAGRA BRANDS INC.,CAG,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,1919
+1130310,0001130310,CENTERPOINT ENERGY INC,CNP,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,1882
+1383312,0001383312,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",BR,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1962
+74208,0000074208,"UDR, Inc.",UDR,Real Estate,Residential REITs,"Highlands Ranch, Colorado",2016-03-07,1972
+1306830,0001306830,Celanese Corp,CE,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,1918
+864749,0000864749,TRIMBLE INC.,TRMB,Information Technology,Electronic Equipment & Instruments,"Sunnyvale, California",2021-01-21,1978
+1285785,0001285785,MOSAIC CO,MOS,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2011-09-26,2004 (1865 / 1909)
+1100682,0001100682,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",CRL,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,1947
+101778,0000101778,MARATHON OIL CORP,MRO,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1991-05-01,1887
+106040,0000106040,WESTERN DIGITAL CORP,WDC,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,1970
+1001082,0001001082,DISH Network CORP,DISH,Communication Services,Cable & Satellite,"Meridian, Colorado",2017-03-13,1980
+943452,0000943452,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,WAB,Industrials,Construction Machinery & Heavy Trucks,"Pittsburgh, Pennsylvania",2019-02-27,1999 (1869)
+842023,0000842023,BIO-TECHNE Corp,TECH,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,1976
+915389,0000915389,EASTMAN CHEMICAL CO,EMN,Materials,Diversified Chemicals,"Kingsport, Tennessee",1994-01-01,1920
+1524472,0001524472,Xylem Inc.,XYL,Industrials,Industrial Machinery,"White Plains, New York",2011-11-01,2011
+1022079,0001022079,QUEST DIAGNOSTICS INC,DGX,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,1967
+11544,0000011544,BERKLEY W R CORP,WRB,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",2019-12-05,1967
+1065696,0001065696,LKQ CORP,LKQ,Consumer Discretionary,Distributors,"Chicago, Illinois",2016-05-23,1998
+1286681,0001286681,DOMINOS PIZZA INC,DPZ,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",2020-05-12,1960
+52988,0000052988,JACOBS ENGINEERING GROUP INC /DE/,J,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,1947
+60086,0000060086,LOEWS CORP,L,Financials,Multi-line Insurance,"New York City, New York",,1959
+1324404,0001324404,"CF Industries Holdings, Inc.",CF,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,1946
+38777,0000038777,FRANKLIN RESOURCES INC,BEN,Financials,Asset Management & Custody Banks,"San Mateo, California",,1947
+100517,0000100517,"United Airlines Holdings, Inc.",UAL,Industrials,Airlines,"Chicago, Illinois",2015-09-03,1967
+84839,0000084839,ROLLINS INC,ROL,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",2018-10-01,1948
+1013237,0001013237,FACTSET RESEARCH SYSTEMS INC,FDS,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",2021-12-20,1978
+217346,0000217346,TEXTRON INC,TXT,Industrials,Aerospace & Defense,"Providence, Rhode Island",1978-12-31,1923
+8818,0000008818,Avery Dennison Corp,AVY,Materials,Paper Packaging,"Glendale, California",1987-12-31,1990
+91419,0000091419,J M SMUCKER Co,SJM,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",2008-11-06,1897
+96943,0000096943,TELEFLEX INC,TFX,Health Care,Health Care Equipment,"Wayne, Pennsylvania",2019-01-18,1943
+721371,0000721371,CARDINAL HEALTH INC,CAH,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,1971
+37785,0000037785,FMC CORP,FMC,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",2009-08-19,1883
+1437107,0001437107,"Discovery, Inc.",DISCA,Communication Services,Broadcasting,"New York City, New York",2010-03-01,1985
+879169,0000879169,INCYTE CORP,INCY,Health Care,Biotechnology,"Wilmington, Delaware",2017-02-28,1991
+832101,0000832101,IDEX CORP /DE/,IEX,Industrials,Industrial Machinery,"Lake Forest, Illinois",2019-08-09,1988
+4281,0000004281,Howmet Aerospace Inc.,HWM,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",1964-03-31,2016
+879101,0000879101,KIMCO REALTY CORP,KIM,Real Estate,Retail REITs,"New Hyde Park, New York",2006-04-04,1958
+874761,0000874761,AES CORP,AES,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1998-10-02,1981
+1711269,0001711269,"Evergy, Inc.",EVRG,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1909
+1604778,0001604778,"Qorvo, Inc.",QRVO,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,2015
+352541,0000352541,ALLIANT ENERGY CORP,LNT,Utilities,Electric Utilities,"Madison, Wisconsin",2016-07-01,1917
+701985,0000701985,"Bath & Body Works, Inc.",BBWI,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1983-09-30,1963
+1050915,0001050915,"QUANTA SERVICES, INC.",PWR,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,1997
+1278021,0001278021,MARKETAXESS HOLDINGS INC,MKTX,Financials,Financial Exchanges & Data,"New York City, New York",2019-07-01,2000
+731802,0000731802,ATMOS ENERGY CORP,ATO,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,1906
+1158449,0001158449,ADVANCE AUTO PARTS INC,AAP,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",2015-07-09,1932
+62996,0000062996,MASCO CORP /DE/,MAS,Industrials,Building Products,"Livonia, Michigan",1981-06-30,1929
+75677,0000075677,PACKAGING CORP OF AMERICA,PKG,Materials,Paper Packaging,"Lake Forest, Illinois",2017-07-26,1959
+51644,0000051644,"INTERPUBLIC GROUP OF COMPANIES, INC.",IPG,Communication Services,Advertising,"New York City, New York",1992-10-01,1961 (1930)
+315213,0000315213,ROBERT HALF INTERNATIONAL INC.,RHI,Industrials,Human Resource & Employment Services,"Menlo Park, California",2000-12-05,1948
+16732,0000016732,CAMPBELL SOUP CO,CPB,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,1869
+1564708,0001564708,NEWS CORP,NWSA,Communication Services,Publishing,"New York City, New York",2013-08-01,2013 (1980)
+815094,0000815094,ABIOMED INC,ABMD,Health Care,Health Care Equipment,"Danvers, Massachusetts",2018-05-31,1981
+857005,0000857005,PTC INC.,PTC,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,1985
+1419612,0001419612,"SOLAREDGE TECHNOLOGIES, INC.",SEDG,Information Technology,Semiconductor Equipment,"Herzliya, Israel",2021-12-20,2006
+46080,0000046080,"HASBRO, INC.",HAS,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1984-09-30,1923
+72331,0000072331,NORDSON CORP,NDSN,Industrials,Industrial Machinery,"Westlake, Ohio",2022-02-15,1935
+28412,0000028412,COMERICA INC /NEW/,CMA,Financials,Diversified Banks,"Dallas, Texas",1995-12-01,1849
+59558,0000059558,LINCOLN NATIONAL CORP,LNC,Financials,Multi-line Insurance,"Radnor, Pennsylvania",1976-06-30,1905
+1070750,0001070750,"HOST HOTELS & RESORTS, INC.",HST,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,1993
+877890,0000877890,CITRIX SYSTEMS INC,CTXS,Information Technology,Application Software,"Fort Lauderdale, Florida",1999-12-01,1989
+1020569,0001020569,IRON MOUNTAIN INC,IRM,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,1951
+779152,0000779152,HENRY JACK & ASSOCIATES INC,JKHY,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",2018-11-13,1976
+1336920,0001336920,"Leidos Holdings, Inc.",LDOS,Industrials,Diversified Support Services,"Reston, Virginia",2019-08-09,1969
+1519751,0001519751,"Fortune Brands Home & Security, Inc.",FBHS,Industrials,Building Products,"Deerfield, Illinois",2016-06-22,2011 (1969)
+822416,0000822416,PULTEGROUP INC/MI/,PHM,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,1956
+1732845,0001732845,WestRock Co,WRK,Materials,Paper Packaging,"Atlanta, Georgia",,2015
+106640,0000106640,WHIRLPOOL CORP /DE/,WHR,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,1911
+1048695,0001048695,"F5, INC.",FFIV,Information Technology,Communications Equipment,"Seattle, Washington",2010-12-20,1996
+818479,0000818479,DENTSPLY SIRONA Inc.,XRAY,Health Care,Health Care Supplies,"Charlotte, North Carolina",2008-11-14,2016 (1969)
+1043277,0001043277,"C. H. ROBINSON WORLDWIDE, INC.",CHRW,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1905
+927066,0000927066,DAVITA INC.,DVA,Health Care,Health Care Facilities,"Denver, Colorado",2008-07-31,1979
+1095073,0001095073,EVEREST RE GROUP LTD,RE,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1973
+91142,0000091142,SMITH A O CORP,AOS,Industrials,Building Products,"Milwaukee, Wisconsin",2017-07-26,1916
+109380,0000109380,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",ZION,Financials,Regional Banks,"Salt Lake City, Utah",2001-06-22,1873
+6201,0000006201,American Airlines Group Inc.,AAL,Industrials,Airlines,"Fort Worth, Texas",2015-03-23,1934
+91440,0000091440,Snap-on Inc,SNA,Industrials,Industrial Machinery,"Kenosha, Wisconsin",1982-09-30,1920
+1111711,0001111711,NISOURCE INC.,NI,Utilities,Multi-Utilities,"Merrillville, Indiana",,1912
+910606,0000910606,REGENCY CENTERS CORP,REG,Real Estate,Retail REITs,"Jacksonville, Florida",2017-03-02,1963
+1043604,0001043604,JUNIPER NETWORKS INC,JNPR,Information Technology,Communications Equipment,"Sunnyvale, California",2006-06-02,1996
+1116132,0001116132,"TAPESTRY, INC.",TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",,2017
+24545,0000024545,MOLSON COORS BEVERAGE CO,TAP,Consumer Staples,Brewers,"Chicago, Illinois",1976-06-30,"2005 (Molson 1786, Coors 1873)"
+1174922,0001174922,WYNN RESORTS LTD,WYNN,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,2002
+352915,0000352915,UNIVERSAL HEALTH SERVICES INC,UHS,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,1979
+814453,0000814453,NEWELL BRANDS INC.,NWL,Consumer Discretionary,Housewares & Specialties,"Atlanta, Georgia",1989-04-30,1903
+1579241,0001579241,Allegion plc,ALLE,Industrials,Building Products,"New York City, New York",2013-12-02,1908
+1725057,0001725057,Ceridian HCM Holding Inc.,CDAY,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,1992
+914208,0000914208,Invesco Ltd.,IVZ,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,1935
+1000228,0001000228,HENRY SCHEIN INC,HSIC,Health Care,Health Care Distributors,"Melville, New York",2015-03-17,1932
+320335,0000320335,GLOBE LIFE INC.,GL,Financials,Life & Health Insurance,"McKinney, Texas",1989-04-30,1900
+908255,0000908255,BORGWARNER INC,BWA,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",2011-12-19,1880
+18926,0000018926,"Lumen Technologies, Inc.",LUMN,Communication Services,Alternative Carriers,"Monroe, Louisiana",1999-03-25,1983 (1877)
+77360,0000077360,PENTAIR plc,PNR,Industrials,Industrial Machinery,"Worsley, England",2012-10-01,1966
+851968,0000851968,MOHAWK INDUSTRIES INC,MHK,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",2013-12-23,1878
+1679273,0001679273,"Lamb Weston Holdings, Inc.",LW,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2018-12-03,2016 (1950)
+1013871,0001013871,"NRG ENERGY, INC.",NRG,Utilities,Independent Power Producers & Energy Traders,"Houston, Texas",2010-01-29,1992
+1012100,0001012100,SEALED AIR CORP/DE,SEE,Materials,Paper Packaging,"Charlotte, North Carolina",1957-03-04,1960
+1688568,0001688568,DXC Technology Co,DXC,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",2017-04-04,2017
+1267238,0001267238,"ASSURANT, INC.",AIZ,Financials,Multi-line Insurance,"New York City, New York",2007-04-10,1892
+34903,0000034903,FEDERAL REALTY INVESTMENT TRUST,FRT,Real Estate,Retail REITs,"Rockville, Maryland",2016-02-01,1962
+1037038,0001037038,RALPH LAUREN CORP,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2007-02-02,1967
+1378946,0001378946,"People's United Financial, Inc.",PBCT,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",2008-11-13,1842
+1513761,0001513761,Norwegian Cruise Line Holdings Ltd.,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2017-10-13,2011 (1966)
+1821825,0001821825,Organon & Co.,OGN,Health Care,Pharmaceuticals,"Jersey City, New Jersey",2021-06-03,2021
+921738,0000921738,PENN NATIONAL GAMING INC,PENN,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",2021-03-22,1972
+1111928,0001111928,IPG PHOTONICS CORP,IPGP,Information Technology,Electronic Manufacturing Services,"Oxford, Massachusetts",2018-03-07,1990
+899689,0000899689,VORNADO REALTY TRUST,VNO,Real Estate,Office REITs,"New York City, New York",,1982
+764622,0000764622,PINNACLE WEST CAPITAL CORP,PNW,Utilities,Multi-Utilities,"Phoenix, Arizona",,1985
+1336917,0001336917,"Under Armour, Inc.",UAA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Baltimore, Maryland",2014-05-01,1996
+1501585,0001501585,"HUNTINGTON INGALLS INDUSTRIES, INC.",HII,Industrials,Aerospace & Defense,"Newport News, Virginia",2018-01-03,2011
+766421,0000766421,"ALASKA AIR GROUP, INC.",ALK,Industrials,Airlines,"Seattle, Washington",2016-05-13,1985
+78239,0000078239,PVH CORP. /DE/,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2013-02-15,1881
+1492633,0001492633,Nielsen Holdings plc,NLSN,Industrials,Research & Consulting Services,"New York City, New York",2013-07-09,1923
+1140536,0001140536,WILLIS TOWERS WATSON PLC,WTW,Financials,Insurance Brokers,"London, England",2016-01-05,2016
+829224,0000829224,STARBUCKS CORP,SBUX,Consumer Discretionary,Restaurants,"Seattle, Washington",,1971
+1868275,0001868275,Constellation Energy Corp,CEG,Utilities,Multi-Utilities,"Baltimore, Maryland",2022-02-02,1999
+1403161,0001403161,VISA INC.,V,Information Technology,Data Processing & Outsourced Services,"San Francisco, California",2009-12-21,1958
