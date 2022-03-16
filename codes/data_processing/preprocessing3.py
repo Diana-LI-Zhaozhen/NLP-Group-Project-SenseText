@@ -30,8 +30,6 @@ def word_reduction(target_list):
         if str_count == 1:
             continue
         elif m == None:
-            continue
-        elif ("None" in i) or ("none" in i):
             continue 
         else:
             filtered_words.append(i)
@@ -163,4 +161,5 @@ rf_words_test = pickle.load(rf_words_test)
 lem_words_test = pickle.load(lem_words_test)
     
 #f.close()
-
+f = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/lem_words.pkl','rb')
+lem_words = pickle.load(f)
