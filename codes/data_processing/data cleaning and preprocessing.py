@@ -6,7 +6,7 @@ Created on Sun Mar  6 15:45:58 2022
 """
 
 import pickle
-f = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/cleaned_10k_items.pkl','rb')
+f = open(r'C:/Users/zhaoz/Desktop/Text Analysis and NLP/NLP-Group-Project-SenseText-master/datasets/cleaned_10k_items.pkl','rb')
 
 cleaned_10k_items = pickle.load(f)
 
@@ -30,7 +30,7 @@ def word_reduction(target_list):
         if str_count == 1:
             continue
         elif m == None:
-            continue 
+            continue
         else:
             filtered_words.append(i)
     return filtered_words
@@ -64,15 +64,6 @@ def remove_stop_words(target_string_list):
 no_stop_b_words = remove_stop_words(lower_b_words)
 no_stop_rf_words = remove_stop_words(lower_rf_words)
 
-
-import pickle
-'''
-no_stop_b_words = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/no_stop_b_words.pkl','rb')
-no_stop_rf_words = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/no_stop_rf_words.pkl','rb')
-
-no_stop_b_words = pickle.load(no_stop_b_words)
-no_stop_rf_words = pickle.load(no_stop_rf_words)
-'''
 #get word class and finish Lemmatization 
 from nltk import pos_tag
 from nltk.stem import WordNetLemmatizer
@@ -133,7 +124,7 @@ def remove_key(d):
     for key in list(d.keys()):
         if (key.isalpha() == False) or (len(key)<2):
             d.pop(key)
-        if (d[key] > 20000) or (d[key] <1200):
+        if (d[key] > 20000) or (d[key] < 1200):
             del d[key]
 
 remove_key(b_words_freq)
@@ -144,22 +135,16 @@ rf_words = list(rf_words_freq.keys())
 
 #save the output as pickle
 import dump
-with open('C:/Users/yanyu/Desktop/Natural Language/project/dataset/b_words.pkl', 'wb') as f1:  # Python 3: open(..., 'wb')
+
+with open('C:/Users/zhaoz/Desktop/Text Analysis and NLP/group project/b_words.pkl', 'wb') as f1:  # Python 3: open(..., 'wb')
     pickle.dump(b_words, f1)
-with open('C:/Users/yanyu/Desktop/Natural Language/project/dataset/rf_words.pkl', 'wb') as f2:  # Python 3: open(..., 'wb')
+with open('C:/Users/zhaoz/Desktop/Text Analysis and NLP/group project/rf_words.pkl', 'wb') as f2:  # Python 3: open(..., 'wb')
     pickle.dump(rf_words , f2)
-with open('C:/Users/yanyu/Desktop/Natural Language/project/dataset/lem_words.pkl', 'wb') as f3:   
-    pickle.dump(lem_words , f3)
-
-    
-b_words_test = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/b_words.pkl','rb')
-rf_words_test = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/rf_words.pkl','rb')
-lem_words_test = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/lem_words.pkl','rb')
-
-b_words_test = pickle.load(b_words_test)
-rf_words_test = pickle.load(rf_words_test)
-lem_words_test = pickle.load(lem_words_test)
-    
-#f.close()
-f = open(r'C:/Users/yanyu/Desktop/Natural Language/project/dataset/lem_words.pkl','rb')
-lem_words = pickle.load(f)
+with open('C:/Users/zhaoz/Desktop/Text Analysis and NLP/group project/lem_b_words.pkl', 'wb') as f3:   
+    pickle.dump(lem_b_words , f3)
+with open('C:/Users/zhaoz/Desktop/Text Analysis and NLP/group project/lem_rf_words.pkl', 'wb') as f4:   
+    pickle.dump(lem_rf_words , f4)
+with open('C:/Users/zhaoz/Desktop/Text Analysis and NLP/NLP-Group-Project-SenseText-master/datasets/no_stop_b_words.pkl','wb') as f5:  # Python 3: open(..., 'wb')
+    pickle.dump(no_stop_b_words, f5)  
+with open('C:/Users/zhaoz/Desktop/Text Analysis and NLP/NLP-Group-Project-SenseText-master/datasets/no_stop_rf_words.pkl','wb') as f6:  # Python 3: open(..., 'wb')
+    pickle.dump(no_stop_rf_words, f6)
