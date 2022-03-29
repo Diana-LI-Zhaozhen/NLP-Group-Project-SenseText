@@ -32,10 +32,10 @@ Merge and clean datasets: remove those companies using a non-standard reporting 
 Financial data collection using yfinance api:
 - financial_data_collection.py
 
-#### (ii) data processing (with transformation)
-For item 1. business only:
-- text_processing_busi_only.py
+#### (ii) data cleaning and preprocessing (with transformation)
+- data cleaning and preprocessing.py
+- text_transforming.py
 
 #### (iii) data analysis
-For item 1. business only:
-- text_processing_busi_only.py
+- clustering & classification.ipynb
+- data_visual.ipynb
