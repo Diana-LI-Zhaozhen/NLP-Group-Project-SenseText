@@ -133,7 +133,7 @@ def remove_key(d):
     for key in list(d.keys()):
         if (key.isalpha() == False) or (len(key)<2):
             d.pop(key)
-        if (d[key] > 20000) or (d[key] < 1200):
+        if (d[key] > 20000) or (d[key] < 2000):
             del d[key]
 
 remove_key(b_words_freq)
