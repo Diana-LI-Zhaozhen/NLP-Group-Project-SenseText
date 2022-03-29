@@ -7,9 +7,16 @@ The 10K items datasets are too large, so only the google drive links are provide
 - cleaned 10K items for 2,965 companies: 10k_info_cleaned.csv & cleaned_10k_items.pkl
 - betas and valuation metrics: valuation.csv
 - revenues and GICS sub-industry codes: tic_rev_ind.csv
+- cleaned text: lem_words.pkl
+- bag of words: b_words.pkl and rf_words.pkl 
+- binary vector: text_analysis.pkl
+- cluster of: aim_ticker.csv
+- financial data for the tickers: valuation.csv
+- output delta (sheet1) + classification on GICS companies (sheet2) + K means unique companies classification (sheet3): new_result.csv
 
 others:
 - all companies reporting to SEC: company_tickers_exchange.json
+- paths to 10 k files: f10k_path_sp500.csv f10k_path_not_sp500.csv
 - stocks only (remove those in OTC and CBOE market): company_tickers_exchange_stock.csv
 - S&P 500 companies' info: sp500_combined.csv
 - non S&P 500 stocks in NYSE and NASDAQ: stocks_not_sp500.csv
@@ -33,9 +40,19 @@ Financial data collection using yfinance api:
 - financial_data_collection.py
 
 #### (ii) data cleaning and preprocessing (with transformation)
+Then, we went through the process of lowering case, tokenization and stop words removal, word reduction, and at last, post tagging and lemmatization with the help of python package `nltk`. Finally, we get two bags of words. 
 - data cleaning and preprocessing.py
+ 
+You may find explanatios for some pitfalls on our first [blog post](https://buehlmaier.github.io/MFIN7036-student-blog-2022-02/from-messy-to-clean-our-way-to-deal-with-10-k-group-sensetext.html).
+
+Next, we performed data transforming and converted text to binary vectors. Also, we did sentiment anlayis for the MD&A part.
 - text_transforming.py
 
+You may find explanatios for some pitfalls on our second [blog post](https://buehlmaier.github.io/MFIN7036-student-blog-2022-02/from-text-to-numbers-code-improvement-in-preparing-data-for-clustering-group-sensetext.html).
+
 #### (iii) data analysis
+At last, we use PCA to reduce the dimensions and 
 - clustering & classification.ipynb
 - data_visual.ipynb
+
+You may find explanatios for some pitfalls on our third [blog post](https://buehlmaier.github.io/MFIN7036-student-blog-2022-02/from-numbers-to-clusters-how-we-select-model-parameters-group-sensetext.html).
