@@ -10,7 +10,7 @@ The 10K items datasets are too large, so only the google drive links are provide
 - cleaned text: lem_words.pkl
 - bag of words: b_words.pkl and rf_words.pkl 
 - binary vector: text_analysis.pkl
-- cluster of: aim_ticker.csv
+- aim tickers by using different clustering methods: aim_ticker.csv
 - financial data for the tickers: valuation.csv
 - output delta (sheet1) + classification on GICS companies (sheet2) + K means unique companies classification (sheet3): new_result.csv
 
